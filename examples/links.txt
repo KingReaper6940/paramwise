@@ -1,0 +1,5 @@
+https://example.com/article?utm_source=newsletter&ref=reading#intro
+https://example.com/article?ref=reading#intro
+https://example.com/search?q=blue%20shoes&gclid=demo
+https://example.com/download?Signature=demo&utm_source=email
+not-a-url
