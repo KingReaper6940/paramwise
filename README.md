@@ -2,6 +2,8 @@
 
 Cleaner links. Every change, visible.
 
+**[Open Paramwise](https://paramwise.vercel.app/)**
+
 Paramwise cleans batches of HTTP(S) links in your browser, shows exactly what changed, and exports the results. No account, dependencies, analytics, link fetching, or persistence.
 
 ## Features
@@ -48,3 +50,4 @@ Protected names: signature, sig, token, access_token, auth, expires, policy, key
 ## Limitations
 
 This is a small explicit rule set, not comprehensive tracking protection or anonymity. Signature detection is conservative but not exhaustive. Some destinations depend on parameters classified as tracking: verify important links before sharing. It does not follow redirects, inspect paths, decode nested destination links, or check that destinations work. Exports include protected links, which may carry access credentials; review them before sharing. URLs are not stored by the app, but your browser and downloaded files remain under your control.
+

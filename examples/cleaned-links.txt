@@ -1,0 +1,3 @@
+https://example.com/article?ref=reading#intro
+https://example.com/search?q=blue%20shoes
+https://example.com/download?Signature=demo&utm_source=email
